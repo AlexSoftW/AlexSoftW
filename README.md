@@ -1,4 +1,5 @@
-<h2>Hi <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />, my name is <b><i>Alex</i></b>👨🏼‍💻</h2>
+<h2>Hi <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />,
+ my name is <b><i>Alex</i></b><img src="https://br.pinterest.com/pin/685391637049298783/" width="25px"/></h2>
  
 I live in: São Paulo, Brazil 🌎<br>
 I'm 21 years old 🧑🏼<br>
