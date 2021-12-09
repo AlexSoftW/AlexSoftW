@@ -4,7 +4,7 @@
  
 I live in: São Paulo, Brazil 🌎<br>
 I'm 21 years old 🧑🏼<br>
-I'm currently studying: systems development 💻
+I'm a systems development technician 💻
 <div>
     I really like the front-end, here are some of the programming languages I've worked with:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25px"/>,
