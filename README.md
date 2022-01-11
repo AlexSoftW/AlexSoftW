@@ -1,6 +1,12 @@
 <h2>Hi <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />,
  my name is <b><i>Alex</i></b>
   <img src="https://i.pinimg.com/564x/a5/2c/fa/a52cfa86db13cb4de5b849fb6ed39b7e.jpg" width="45px"/></h2>
+  
+  <div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
 I live in: São Paulo, Brazil 🌎<br>
 I'm 21 years old 🧑🏼<br>
