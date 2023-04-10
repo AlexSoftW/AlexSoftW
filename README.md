@@ -1,6 +1,6 @@
 <div>
  <h2>Olá <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />,
- meu nome é <b><i>Alex</i></b></h2>
+</h2>
  Sou de São Paulo, Brasil 🌎<br>
  Tenho 21 anos de idade 🧑🏼<br>
  Estou cursando Análise e desenvolvimento de sistema pela SPTECH 💻<br>
