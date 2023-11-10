@@ -2,7 +2,7 @@
  <h2>Olá <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />
 </h2>
  Sou de São Paulo, Brasil 🌎<br>
- Tenho 21 anos de idade 🧑🏼<br>
+ Tenho 23 anos de idade 🧑🏼<br>
  Estou cursando Análise e desenvolvimento de sistema pela SPTECH 💻<br>
  E faço parte da equipe da Accenture > Brasil 💜<br>
 </div>
