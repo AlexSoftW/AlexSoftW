@@ -3,8 +3,7 @@
 </h2>
  Sou de São Paulo, Brasil 🌎<br>
  Tenho 23 anos de idade 🧑🏼<br>
- Estou cursando Análise e desenvolvimento de sistema pela SPTECH 💻<br>
- E faço parte da equipe da Accenture > Brasil 💜<br>
+ Sou técnico em análise e desenvolvimento de sistema 💻<br>
 </div>
 
 <div>
