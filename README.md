@@ -1,9 +1,9 @@
 <div>
- <h2>Olá <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />
+ <h2>Olá <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px" />
 </h2>
  Sou de São Paulo, Brasil 🌎<br>
- Tenho 23 anos de idade 🧑🏼<br>
- Sou técnico em análise e desenvolvimento de sistema 💻<br>
+ Tenho 24 anos de idade 🧑🏼<br>
+ Sou formado em análise e desenvolvimento de sistema 💻<br>
 </div>
 
 <div>
